@@ -115,7 +115,7 @@ Thanks to the **open-source LLM community** (Nous, Hugging Face, Teknium), Googl
 
 ## 📬 Contact
 
-📧 avanti.c@purdue.edu  
+📧 chandratreavanti@gmail.com
 💼 Project team: Abhishek Bagepalli, Ramya Polineni, Tsung-Yu Lu, Chan-Yen Hsiung, Jayesh Chaudhari, and Avanti Chandratre  
 📍 Purdue University – MSBAIM 2025
 
