@@ -1,5 +1,5 @@
 # Risk-Benchmarking-for-LLMs
-# 🔍 LLM Risk Benchmarking Toolkit
+## 🔍 LLM Risk Benchmarking Toolkit
 
 A practical framework to evaluate the **real-world vulnerabilities of open-source Large Language Models (LLMs)** — developed in collaboration with **Prediction Guard** and presented at **INFORMS 2025**.
 
